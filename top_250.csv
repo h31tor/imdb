@@ -1,251 +1,251 @@
-Title,Director,Genre,Year,Release date,Country,Rating,Votes,Budget,Revenue,IMDB id,Profit
-The Shawshank Redemption,Frank Darabont,Drama,1994,23-Sep-1994,['US'],9.3,3000000,25000000.0,28341469.0,tt0111161,3341469.0
-The Godfather,Francis Ford Coppola,Drama,1972,14-Mar-1972,['US'],9.2,2100000,6000000.0,245066411.0,tt0068646,239066411.0
-The Dark Knight,Christopher Nolan,"Action, Drama, Thriller",2008,16-Jul-2008,['US'],9.0,3000000,185000000.0,1004558444.0,tt0468569,819558444.0
-The Godfather Part II,Francis Ford Coppola,Drama,1974,20-Dec-1974,['US'],9.0,1400000,13000000.0,102600000.0,tt0071562,89600000.0
-12 Angry Men,Sidney Lumet,Drama,1957,10-Apr-1957,['US'],9.0,926000,397751.0,4360000.0,tt0050083,3962249.0
-The Lord of the Rings: The Return of the King,Peter Jackson,"Adventure, Drama",2003,17-Dec-2003,['US'],9.0,2100000,94000000.0,1118888979.0,tt0167260,1024888979.0
-Schindler's List,Steven Spielberg,"Biography, Drama",1993,15-Dec-1993,['US'],9.0,1500000,22000000.0,321365567.0,tt0108052,299365567.0
-Pulp Fiction,Quentin Tarantino,Drama,1994,10-Sep-1994,['US'],8.9,2300000,8000000.0,213928762.0,tt0110912,205928762.0
-The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,"Adventure, Drama, Fantasy",2001,18-Dec-2001,['US'],8.9,2100000,93000000.0,871368364.0,tt0120737,778368364.0
-"The Good, the Bad and the Ugly",Sergio Leone,Adventure,1966,22-Dec-1966,['IT'],8.8,854000,1200000.0,38900000.0,tt0060196,37700000.0
-Forrest Gump,Robert Zemeckis,"Drama, Romance",1994,23-Jun-1994,['US'],8.8,2400000,55000000.0,677387716.0,tt0109830,622387716.0
-The Lord of the Rings: The Two Towers,Peter Jackson,"Adventure, Drama, Fantasy",2002,18-Dec-2002,['US'],8.8,1900000,79000000.0,926287400.0,tt0167261,847287400.0
-Fight Club,David Fincher,"Drama, Thriller",1999,15-Oct-1999,['US'],8.8,2500000,63000000.0,100853753.0,tt0137523,37853753.0
-Inception,Christopher Nolan,"Action, Adventure, Sci-Fi, Thriller",2010,15-Jul-2010,"['US', 'GB']",8.8,2700000,160000000.0,839030630.0,tt1375666,679030630.0
-Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,,1980,20-May-1980,['US'],8.7,1400000,18000000.0,538400000.0,tt0080684,520400000.0
-The Matrix,Lana Wachowski,"Action, Sci-Fi",1999,31-Mar-1999,['US'],8.7,2200000,63000000.0,463517383.0,tt0133093,400517383.0
-Goodfellas,Martin Scorsese,"Biography, Drama",1990,12-Sep-1990,['US'],8.7,1300000,25000000.0,46800000.0,tt0099685,21800000.0
-Interstellar,Christopher Nolan,"Adventure, Drama, Sci-Fi",2014,05-Nov-2014,['US'],8.7,2300000,165000000.0,746606706.0,tt0816692,581606706.0
-One Flew Over the Cuckoo's Nest,Milos Forman,Drama,1975,19-Nov-1975,['US'],8.7,1100000,3000000.0,108981275.0,tt0073486,105981275.0
-Se7en,David Fincher,Drama,1995,22-Sep-1995,['US'],8.6,1900000,33000000.0,327311859.0,tt0114369,294311859.0
-It's a Wonderful Life,Frank Capra,"Drama, Fantasy, Romance",1946,20-Dec-1946,['US'],8.6,528000,3180000.0,9644124.0,tt0038650,6464124.0
-The Silence of the Lambs,Jonathan Demme,"Drama, Horror, Thriller",1991,14-Feb-1991,['US'],8.6,1600000,19000000.0,272742922.0,tt0102926,253742922.0
-Seven Samurai,Akira Kurosawa,"Action, Drama",1954,26-Apr-1954,['JP'],8.6,384000,2000000.0,105000000.0,tt0047478,103000000.0
-Saving Private Ryan,Steven Spielberg,Drama,1998,24-Jul-1998,['US'],8.6,1600000,70000000.0,481840909.0,tt0120815,411840909.0
-City of God,Fernando Meirelles,Drama,2002,30-Aug-2002,['BR'],8.6,838000,3300000.0,30641770.0,tt0317248,27341770.0
-The Green Mile,Frank Darabont,"Drama, Fantasy",1999,10-Dec-1999,['US'],8.6,1500000,60000000.0,286801374.0,tt0120689,226801374.0
-Life Is Beautiful,Roberto Benigni,"Comedy, Drama, Romance",1997,20-Dec-1997,['IT'],8.6,779000,20000000.0,230098753.0,tt0118799,210098753.0
-Terminator 2: Judgment Day,James Cameron,"Action, Adventure, Sci-Fi",1991,03-Jul-1991,['US'],8.6,1200000,102000000.0,520000000.0,tt0103064,418000000.0
-Star Wars: Episode IV - A New Hope,George Lucas,Action,1977,25-May-1977,['US'],8.6,1500000,11000000.0,775398007.0,tt0076759,764398007.0
-Back to the Future,Robert Zemeckis,"Adventure, Comedy, Sci-Fi",1985,03-Jul-1985,['US'],8.5,1400000,19000000.0,381109762.0,tt0088763,362109762.0
-Spirited Away,Hayao Miyazaki,"Adventure, Animation, Fantasy",2001,20-Jul-2001,['JP'],8.6,911000,19000000.0,274925095.0,tt0245429,255925095.0
-The Pianist,Roman Polanski,"Biography, Drama",2002,17-Sep-2002,"['FR', 'DE', 'PL', 'GB']",8.5,969000,35000000.0,120098945.0,tt0253474,85098945.0
-Gladiator,Ridley Scott,"Action, Adventure, Drama",2000,04-May-2000,['US'],8.5,1800000,103000000.0,465516248.0,tt0172495,362516248.0
-Parasite,Bong Joon Ho,"Drama, Thriller",2019,30-May-2019,['KR'],8.5,1100000,11363000.0,257591776.0,tt6751668,246228776.0
-Psycho,Alfred Hitchcock,"Drama, Horror, Thriller",1960,22-Jun-1960,['US'],8.5,753000,806947.0,50048065.0,tt0054215,49241118.0
-The Lion King,Roger Allers,"Adventure, Animation, Drama, Fantasy",1994,15-Jun-1994,['US'],8.5,1200000,45000000.0,763455561.0,tt0110357,718455561.0
-Grave of the Fireflies,Isao Takahata,"Animation, Drama",1988,16-Apr-1988,['JP'],8.5,350000,3700000.0,516962.0,tt0095327,-3183038.0
-The Departed,Martin Scorsese,"Drama, Thriller",2006,04-Oct-2006,['US'],8.5,1500000,90000000.0,291465000.0,tt0407887,201465000.0
-Whiplash,Damien Chazelle,Drama,2014,10-Oct-2014,['US'],8.5,1100000,3300000.0,50307484.0,tt2582802,47007484.0
-Harakiri,Masaki Kobayashi,Drama,1962,15-Sep-1962,['JP'],8.6,80000,,,tt0056058,
-The Prestige,Christopher Nolan,"Drama, Sci-Fi, Thriller",2006,17-Oct-2006,"['GB', 'US']",8.5,1500000,40000000.0,109676311.0,tt0482571,69676311.0
-American History X,Tony Kaye,Drama,1998,01-Jul-1998,['US'],8.5,1200000,20000000.0,23900000.0,tt0120586,3900000.0
-Léon: The Professional,Luc Besson,"Action, Drama, Thriller",1994,14-Sep-1994,['FR'],8.5,1300000,16000000.0,45284974.0,tt0110413,29284974.0
-Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,"Action, Adventure, Animation, Fantasy",2023,31-May-2023,['US'],8.5,456000,100000000.0,690897910.0,tt9362722,590897910.0
-Casablanca,Michael Curtiz,"Drama, Romance",1942,15-Jan-1943,['US'],8.5,631000,878000.0,10462500.0,tt0034583,9584500.0
-The Usual Suspects,Bryan Singer,Drama,1995,19-Jul-1995,['US'],8.5,1200000,6000000.0,23300000.0,tt0114814,17300000.0
-The Intouchables,Olivier Nakache,"Comedy, Drama",2011,02-Nov-2011,['FR'],8.5,979000,13000000.0,426590315.0,tt1675434,413590315.0
-Cinema Paradiso,Giuseppe Tornatore,"Drama, Romance",1988,17-Nov-1988,['IT'],8.5,301000,5000000.0,11990401.0,tt0095765,6990401.0
-Alien,Ridley Scott,"Horror, Sci-Fi",1979,25-May-1979,['US'],8.5,1000000,11000000.0,104931801.0,tt0078748,93931801.0
-Modern Times,Charles Chaplin,"Comedy, Drama, Romance",1936,05-Feb-1936,['US'],8.5,273000,1500000.0,1800000.0,tt0027977,300000.0
-Rear Window,Alfred Hitchcock,"Drama, Thriller",1954,01-Aug-1954,['US'],8.5,546000,1000000.0,37042336.0,tt0047396,36042336.0
-Once Upon a Time in the West,Sergio Leone,Drama,1968,21-Dec-1968,['IT'],8.5,368000,5000000.0,5380118.0,tt0064116,380118.0
-Django Unchained,Quentin Tarantino,,2012,25-Dec-2012,['US'],8.5,1800000,100000000.0,425368238.0,tt1853728,325368238.0
-City Lights,Charles Chaplin,"Comedy, Drama, Romance",1931,06-Feb-1931,['US'],8.5,207000,1500000.0,4250000.0,tt0021749,2750000.0
-Apocalypse Now,Francis Ford Coppola,Drama,1979,19-May-1979,['US'],8.4,742000,31500000.0,150000000.0,tt0078788,118500000.0
-Dune: Part Two,Denis Villeneuve,"Action, Adventure, Drama, Sci-Fi",2024,27-Feb-2024,['US'],8.5,632000,190000000.0,714444358.0,tt15239678,524444358.0
-WALL·E,Andrew Stanton,"Adventure, Animation, Sci-Fi",2008,22-Jun-2008,['US'],8.4,1300000,180000000.0,521311860.0,tt0910970,341311860.0
-Memento,Christopher Nolan,Thriller,2000,11-Oct-2000,['US'],8.4,1400000,9000000.0,40047236.0,tt0209144,31047236.0
-Raiders of the Lost Ark,Steven Spielberg,"Action, Adventure",1981,12-Jun-1981,['US'],8.4,1100000,18000000.0,389925971.0,tt0082971,371925971.0
-The Lives of Others,Florian Henckel von Donnersmarck,"Drama, Thriller",2006,23-Mar-2006,['DE'],8.4,428000,2000000.0,77672685.0,tt0405094,75672685.0
-Avengers: Infinity War,Anthony Russo,"Action, Adventure, Sci-Fi",2018,25-Apr-2018,['US'],8.4,1300000,300000000.0,2052415039.0,tt4154756,1752415039.0
-Sunset Boulevard,Billy Wilder,Drama,1950,10-Aug-1950,['US'],8.4,249000,1752000.0,5000000.0,tt0043014,3248000.0
-Spider-Man: Into the Spider-Verse,Bob Persichetti,"Action, Adventure, Animation, Comedy",2018,06-Dec-2018,['US'],8.4,732000,90000000.0,384298736.0,tt4633694,294298736.0
-Witness for the Prosecution,Billy Wilder,"Drama, Thriller",1957,17-Dec-1957,['US'],8.4,150000,3000000.0,9000000.0,tt0051201,6000000.0
-Paths of Glory,Stanley Kubrick,Drama,1957,25-Oct-1957,['US'],8.4,226000,935000.0,1200000.0,tt0050825,265000.0
-The Shining,Stanley Kubrick,"Drama, Horror",1980,23-May-1980,['US'],8.4,1200000,19000000.0,44781695.0,tt0081505,25781695.0
-The Great Dictator,Charles Chaplin,"Comedy, Drama",1940,15-Oct-1940,['US'],8.4,249000,2000000.0,11000000.0,tt0032553,9000000.0
-12th Fail,Vidhu Vinod Chopra,"Biography, Drama",2023,11-Aug-2023,['IN'],8.7,148000,2400000.0,8300000.0,tt23849204,5900000.0
-Inglourious Basterds,Quentin Tarantino,"Adventure, Drama",2009,02-Aug-2009,['US'],8.4,1700000,70000000.0,321457747.0,tt0361748,251457747.0
-Aliens,James Cameron,"Action, Adventure, Horror, Sci-Fi",1986,18-Jul-1986,['US'],8.4,809000,18500000.0,183316455.0,tt0090605,164816455.0
-The Dark Knight Rises,Christopher Nolan,"Action, Drama, Thriller",2012,17-Jul-2012,"['GB', 'US']",8.4,1900000,250000000.0,1081041287.0,tt1345836,831041287.0
-Coco,Lee Unkrich,"Adventure, Animation, Drama, Fantasy",2017,27-Oct-2017,['US'],8.4,651000,175000000.0,807816196.0,tt2380307,632816196.0
-Amadeus,Milos Forman,"Biography, Drama",1984,19-Sep-1984,['US'],8.4,449000,18000000.0,90007557.0,tt0086879,72007557.0
-Toy Story,John Lasseter,"Adventure, Animation, Comedy, Fantasy",1995,22-Nov-1995,['US'],8.3,1100000,30000000.0,394436586.0,tt0114709,364436586.0
-Avengers: Endgame,Anthony Russo,"Action, Adventure, Sci-Fi",2019,24-Apr-2019,['US'],8.4,1400000,356000000.0,2799439100.0,tt4154796,2443439100.0
-Good Will Hunting,Gus Van Sant,"Drama, Romance",1997,05-Dec-1997,['US'],8.3,1100000,10000000.0,225900000.0,tt0119217,215900000.0
-Oldboy,Park Chan-wook,"Action, Drama, Thriller",2003,21-Nov-2003,['KR'],8.3,680000,3000000.0,17500000.0,tt0364569,14500000.0
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,Comedy,1964,29-Jan-1964,['GB'],8.3,538000,1800000.0,9500000.0,tt0057012,7700000.0
-Das Boot,Wolfgang Petersen,Drama,1981,17-Sep-1981,['DE'],8.4,279000,14000000.0,85000000.0,tt0082096,71000000.0
-Braveheart,Mel Gibson,"Biography, Drama",1995,24-May-1995,['US'],8.3,1100000,72000000.0,213216216.0,tt0112573,141216216.0
-American Beauty,Sam Mendes,Drama,1999,15-Sep-1999,['US'],8.3,1200000,15000000.0,356296601.0,tt0169547,341296601.0
-Princess Mononoke,Hayao Miyazaki,"Adventure, Animation",1997,12-Jul-1997,['JP'],8.3,461000,23500000.0,176506186.0,tt0119698,153006186.0
-High and Low,Akira Kurosawa,"Drama, Thriller",1963,01-Mar-1963,['JP'],8.4,60000,250000.0,,tt0057565,
-Your Name.,Makoto Shinkai,"Animation, Drama, Fantasy, Romance",2016,26-Aug-2016,['JP'],8.4,357000,,358000000.0,tt5311514,
-3 Idiots,Rajkumar Hirani,"Comedy, Drama",2009,23-Dec-2009,['IN'],8.4,459000,9000000.0,70000000.0,tt1187043,61000000.0
-Joker,Todd Phillips,"Drama, Thriller",2019,01-Oct-2019,['US'],8.3,1600000,55000000.0,1078958629.0,tt7286456,1023958629.0
-Once Upon a Time in America,Sergio Leone,Drama,1984,23-May-1984,"['IT', 'US']",8.3,395000,30000000.0,5500000.0,tt0087843,-24500000.0
-Capernaum,Nadine Labaki,Drama,2018,20-Sep-2018,['LB'],8.4,116000,4000000.0,64978931.0,tt8267604,60978931.0
-Singin' in the Rain,Stanley Donen,"Comedy, Romance",1952,10-Apr-1952,['US'],8.3,273000,2540800.0,7200000.0,tt0045152,4659200.0
-Come and See,Elem Klimov,"Drama, Thriller",1985,17-Oct-1985,['SU'],8.3,112000,,20929648.0,tt0091251,
-Requiem for a Dream,Darren Aronofsky,Drama,2000,06-Oct-2000,['US'],8.3,939000,4500000.0,7390108.0,tt0180093,2890108.0
-The Chaos Class Failed the Class,Ertem Egilmez,Comedy,1975,15-Apr-1975,['TR'],8.7,27000,,,tt0252488,
-Star Wars: Episode VI - Return of the Jedi,Richard Marquand,,1983,25-May-1983,['US'],8.3,1200000,32350000.0,572700000.0,tt0086190,540350000.0
-Toy Story 3,Lee Unkrich,"Adventure, Animation, Comedy, Fantasy",2010,16-Jun-2010,['US'],8.3,932000,200000000.0,1067316101.0,tt0435761,867316101.0
-The Hunt,Thomas Vinterberg,Drama,2012,13-Jun-2012,['DK'],8.3,388000,3800000.0,18300000.0,tt2106476,14500000.0
-Ikiru,Akira Kurosawa,Drama,1952,09-Oct-1952,['JP'],8.3,97000,,55240.0,tt0044741,
-Eternal Sunshine of the Spotless Mind,Michel Gondry,"Drama, Romance, Sci-Fi",2004,19-Mar-2004,['US'],8.3,1100000,20000000.0,72258126.0,tt0338013,52258126.0
-2001: A Space Odyssey,Stanley Kubrick,"Adventure, Sci-Fi",1968,02-Apr-1968,"['US', 'GB']",8.3,754000,12000000.0,71923560.0,tt0062622,59923560.0
-Incendies,Denis Villeneuve,Drama,2010,17-Sep-2010,['CA'],8.3,228000,6800000.0,6788659.0,tt1255953,-11341.0
-Reservoir Dogs,Quentin Tarantino,Thriller,1992,02-Sep-1992,['US'],8.3,1100000,1200000.0,2859750.0,tt0105236,1659750.0
-The Apartment,Billy Wilder,"Comedy, Drama, Romance",1960,21-Jun-1960,['US'],8.3,209000,3000000.0,25000000.0,tt0053604,22000000.0
-Lawrence of Arabia,David Lean,"Adventure, Biography, Drama",1962,11-Dec-1962,['GB'],8.3,329000,15000000.0,69995385.0,tt0056172,54995385.0
-Scarface,Brian De Palma,Drama,1983,09-Dec-1983,['US'],8.3,966000,25000000.0,66023329.0,tt0086250,41023329.0
-Double Indemnity,Billy Wilder,"Drama, Thriller",1944,06-Jul-1944,['US'],8.3,175000,927262.0,2500000.0,tt0036775,1572738.0
-Heat,Michael Mann,"Action, Drama",1995,15-Dec-1995,['US'],8.3,759000,60000000.0,187400000.0,tt0113277,127400000.0
-North by Northwest,Alfred Hitchcock,"Adventure, Drama, Thriller",1959,08-Jul-1959,['US'],8.3,360000,4000000.0,13275000.0,tt0053125,9275000.0
-Up,Pete Docter,"Adventure, Animation, Comedy, Drama",2009,28-May-2009,['US'],8.3,1200000,175000000.0,735099082.0,tt1049413,560099082.0
-Citizen Kane,Orson Welles,Drama,1941,17-Apr-1941,['US'],8.3,481000,839727.0,23218000.0,tt0033467,22378273.0
-M,Fritz Lang,Thriller,1931,11-May-1931,['DE'],8.3,177000,,35274.0,tt0022100,
-Full Metal Jacket,Stanley Kubrick,Drama,1987,26-Jun-1987,['US'],8.2,822000,30000000.0,46357676.0,tt0093058,16357676.0
-Vertigo,Alfred Hitchcock,"Romance, Thriller",1958,28-May-1958,['US'],8.2,445000,2479000.0,7808900.0,tt0052357,5329900.0
-Amélie,Jean-Pierre Jeunet,"Comedy, Romance",2001,25-Apr-2001,['FR'],8.3,819000,10000000.0,173921954.0,tt0211915,163921954.0
-A Separation,Asghar Farhadi,Drama,2011,15-Feb-2011,['IR'],8.3,269000,5000000.0,24426169.0,tt1832382,19426169.0
-To Kill a Mockingbird,Robert Mulligan,Drama,1962,20-Dec-1962,['US'],8.3,343000,2000000.0,13129846.0,tt0056592,11129846.0
-Like Stars on Earth,Aamir Khan,Drama,2007,21-Dec-2007,['IN'],8.3,218000,2600000.0,28430000.0,tt0986264,25830000.0
-A Clockwork Orange,Stanley Kubrick,Sci-Fi,1971,19-Dec-1971,['US'],8.2,912000,2200000.0,27033812.0,tt0066921,24833812.0
-Die Hard,John McTiernan,"Action, Thriller",1988,15-Jul-1988,['US'],8.2,991000,28000000.0,140767956.0,tt0095016,112767956.0
-The Sting,George Roy Hill,"Comedy, Drama",1973,25-Dec-1973,['US'],8.2,290000,5500000.0,159616327.0,tt0070735,154116327.0
-Indiana Jones and the Last Crusade,Steven Spielberg,"Action, Adventure",1989,24-May-1989,['US'],8.2,839000,48000000.0,474171806.0,tt0097576,426171806.0
-Oppenheimer,Christopher Nolan,"Biography, Drama",2023,19-Jul-2023,['US'],8.3,893000,100000000.0,952000000.0,tt15398776,852000000.0
-Metropolis,Fritz Lang,"Drama, Sci-Fi",1927,06-Feb-1927,['DE'],8.3,194000,5300000.0,1350322.0,tt0017136,-3949678.0
-Snatch,Guy Ritchie,Comedy,2000,01-Sep-2000,['GB'],8.2,946000,10000000.0,83557872.0,tt0208092,73557872.0
-1917,Sam Mendes,"Action, Drama",2019,25-Dec-2019,['US'],8.2,728000,100000000.0,394638258.0,tt8579674,294638258.0
-L.A. Confidential,Curtis Hanson,Drama,1997,19-Sep-1997,['US'],8.2,641000,35000000.0,126216940.0,tt0119488,91216940.0
-Bicycle Thieves,Vittorio De Sica,Drama,1948,21-Jul-1948,['IT'],8.2,185000,133000.0,450159.0,tt0040522,317159.0
-Downfall,Oliver Hirschbiegel,"Biography, Drama",2004,16-Sep-2004,['DE'],8.2,389000,16000000.0,92181574.0,tt0363163,76181574.0
-Dangal,Nitesh Tiwari,"Action, Biography, Drama",2016,21-Dec-2016,['IN'],8.3,226000,10400000.0,311000000.0,tt5074352,300600000.0
-The Wolf of Wall Street,Martin Scorsese,"Biography, Comedy, Drama",2013,25-Dec-2013,['US'],8.2,1700000,100000000.0,407038432.0,tt0993846,307038432.0
-Hamilton,Thomas Kail,"Biography, Drama",2020,03-Jul-2020,['US'],8.3,128000,,,tt8503618,
-Taxi Driver,Martin Scorsese,Drama,1976,09-Feb-1976,['US'],8.2,980000,1900000.0,28579636.0,tt0075314,26679636.0
-Green Book,Peter Farrelly,"Biography, Comedy, Drama",2018,16-Nov-2018,['US'],8.2,636000,23000000.0,321752656.0,tt6966692,298752656.0
-Batman Begins,Christopher Nolan,"Action, Drama, Thriller",2005,10-Jun-2005,['US'],8.2,1600000,150000000.0,374218673.0,tt0372784,224218673.0
-For a Few Dollars More,Sergio Leone,Drama,1965,18-Dec-1965,['IT'],8.2,289000,600000.0,15000000.0,tt0059578,14400000.0
-The Truman Show,Peter Weir,"Comedy, Drama",1998,04-Jun-1998,['US'],8.2,1300000,60000000.0,264100000.0,tt0120382,204100000.0
-Judgment at Nuremberg,Stanley Kramer,Drama,1961,18-Dec-1961,['US'],8.3,92000,3000000.0,10000000.0,tt0055031,7000000.0
-Some Like It Hot,Billy Wilder,"Comedy, Romance",1959,19-Mar-1959,['US'],8.2,295000,2883848.0,25000000.0,tt0053291,22116152.0
-Shutter Island,Martin Scorsese,"Drama, Thriller",2010,14-Feb-2010,['US'],8.2,1600000,80000000.0,294804195.0,tt1130884,214804195.0
-The Kid,Charles Chaplin,"Comedy, Drama",1921,21-Jan-1921,['US'],8.2,141000,250000.0,2500000.0,tt0012349,2250000.0
-The Father,Florian Zeller,Drama,2020,23-Dec-2020,['GB'],8.2,213000,6000000.0,21029340.0,tt10272386,15029340.0
-All About Eve,Joseph L. Mankiewicz,Drama,1950,09-Nov-1950,['US'],8.2,145000,1400000.0,8400000.0,tt0042192,7000000.0
-Jurassic Park,Steven Spielberg,"Action, Adventure, Sci-Fi, Thriller",1993,11-Jun-1993,['US'],8.2,1100000,63000000.0,920100000.0,tt0107290,857100000.0
-There Will Be Blood,Paul Thomas Anderson,Drama,2007,26-Dec-2007,['US'],8.2,671000,25000000.0,77208711.0,tt0469494,52208711.0
-The Sixth Sense,M. Night Shyamalan,"Drama, Thriller",1999,06-Aug-1999,['US'],8.2,1100000,40000000.0,672800000.0,tt0167404,632800000.0
-Casino,Martin Scorsese,Drama,1995,22-Nov-1995,['US'],8.2,593000,50000000.0,116112375.0,tt0112641,66112375.0
-Ran,Akira Kurosawa,"Action, Drama",1985,01-Jun-1985,['JP'],8.2,144000,11500005.0,11859533.0,tt0089881,359528.0
-Top Gun: Maverick,Joseph Kosinski,"Action, Drama",2022,21-May-2022,['US'],8.2,777000,170000000.0,1488732821.0,tt1745960,1318732821.0
-No Country for Old Men,Ethan Coen,"Drama, Thriller",2007,13-Jun-2007,['US'],8.2,1100000,25000000.0,171627166.0,tt0477348,146627166.0
-The Thing,John Carpenter,"Horror, Sci-Fi",1982,25-Jun-1982,['US'],8.2,499000,15000000.0,19629760.0,tt0084787,4629760.0
-Pan's Labyrinth,Guillermo del Toro,"Drama, Fantasy",2006,11-Oct-2006,"['MX', 'ES']",8.2,725000,19000000.0,83258226.0,tt0457430,64258226.0
-Unforgiven,Clint Eastwood,Drama,1992,07-Aug-1992,['US'],8.2,455000,14400000.0,159157447.0,tt0105695,144757447.0
-A Beautiful Mind,Ron Howard,"Biography, Drama",2001,14-Dec-2001,['US'],8.2,1000000,58000000.0,316791257.0,tt0268978,258791257.0
-Kill Bill: Vol. 1,Quentin Tarantino,"Action, Thriller",2003,10-Oct-2003,['US'],8.2,1300000,30000000.0,180906076.0,tt0266697,150906076.0
-The Treasure of the Sierra Madre,John Huston,"Adventure, Drama",1948,15-Jan-1948,['US'],8.2,137000,3800000.0,4307000.0,tt0040897,507000.0
-Prisoners,Denis Villeneuve,"Drama, Thriller",2013,19-Sep-2013,['US'],8.2,872000,46000000.0,122126687.0,tt1392214,76126687.0
-Yojimbo,Akira Kurosawa,"Action, Drama, Thriller",1961,25-Apr-1961,['JP'],8.2,138000,,,tt0055630,
-Finding Nemo,Andrew Stanton,"Adventure, Animation, Comedy",2003,30-May-2003,['US'],8.2,1200000,94000000.0,940335536.0,tt0266543,846335536.0
-Howl's Moving Castle,Hayao Miyazaki,"Adventure, Animation, Fantasy",2004,09-Sep-2004,['JP'],8.2,484000,24000000.0,236049757.0,tt0347149,212049757.0
-The Great Escape,John Sturges,"Adventure, Drama, Thriller",1963,03-Jul-1963,['US'],8.2,269000,4000000.0,11700000.0,tt0057115,7700000.0
-Monty Python and the Holy Grail,Terry Gilliam,"Adventure, Comedy, Fantasy",1975,03-Apr-1975,['GB'],8.2,588000,400000.0,5028948.0,tt0071853,4628948.0
-The Elephant Man,David Lynch,"Biography, Drama",1980,09-Oct-1980,['US'],8.2,273000,5000000.0,26000000.0,tt0080678,21000000.0
-Dial M for Murder,Alfred Hitchcock,"Drama, Thriller",1954,29-May-1954,['US'],8.2,198000,1400000.0,3000000.0,tt0046912,1600000.0
-Klaus,Sergio Pablos,"Adventure, Animation, Comedy, Fantasy",2019,08-Nov-2019,"['GB', 'ES', 'US']",8.2,215000,,,tt4729430,
-Gone with the Wind,Victor Fleming,"Drama, Romance",1939,15-Dec-1939,['US'],8.2,347000,4000000.0,402352579.0,tt0031381,398352579.0
-Rashomon,Akira Kurosawa,Drama,1950,26-Aug-1950,['JP'],8.2,189000,250000.0,117668.0,tt0042876,-132332.0
-Chinatown,Roman Polanski,"Drama, Thriller",1974,20-Jun-1974,['US'],8.1,365000,6000000.0,30000000.0,tt0071315,24000000.0
-The Secret in Their Eyes,Juan José Campanella,Drama,2009,13-Aug-2009,"['ES', 'AR']",8.2,233000,2000000.0,33965843.0,tt1305806,31965843.0
-"Lock, Stock and Two Smoking Barrels",Guy Ritchie,Comedy,1998,28-Aug-1998,['GB'],8.1,635000,1350000.0,28356188.0,tt0120735,27006188.0
-V for Vendetta,James McTeigue,"Action, Drama, Sci-Fi, Thriller",2005,23-Feb-2006,['US'],8.1,1200000,54000000.0,134686457.0,tt0434409,80686457.0
-Inside Out,Pete Docter,"Adventure, Animation, Comedy, Drama, Fantasy",2015,17-Jun-2015,['US'],8.1,868000,175000000.0,857611174.0,tt2096673,682611174.0
-"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,"Comedy, Drama",2017,01-Dec-2017,"['GB', 'US']",8.1,583000,15000000.0,162729321.0,tt5027774,147729321.0
-The Bridge on the River Kwai,David Lean,"Adventure, Drama",1957,11-Oct-1957,['GB'],8.1,242000,3000000.0,44908000.0,tt0050212,41908000.0
-Trainspotting,Danny Boyle,Drama,1996,23-Feb-1996,['GB'],8.1,750000,4000000.0,71981823.0,tt0117951,67981823.0
-Catch Me If You Can,Steven Spielberg,"Biography, Drama",2002,16-Dec-2002,['US'],8.1,1200000,52000000.0,352114312.0,tt0264464,300114312.0
-Raging Bull,Martin Scorsese,"Biography, Drama",1980,14-Nov-1980,['US'],8.1,396000,18000000.0,23380203.0,tt0081398,5380203.0
-The Wild Robot,Chris Sanders,"Animation, Sci-Fi",2024,12-Sep-2024,['US'],8.2,169000,78000000.0,331982078.0,tt29623480,253982078.0
-Fargo,Joel Coen,"Drama, Thriller",1996,08-Mar-1996,['US'],8.1,757000,7000000.0,60611975.0,tt0116282,53611975.0
-Warrior,Gavin O'Connor,"Action, Drama",2011,09-Sep-2011,['US'],8.1,515000,25000000.0,23300000.0,tt1291584,-1700000.0
-Harry Potter and the Deathly Hallows: Part 2,David Yates,"Adventure, Fantasy",2011,12-Jul-2011,['GB'],8.1,998000,125000000.0,1341511219.0,tt1201607,1216511219.0
-Gran Torino,Clint Eastwood,Drama,2008,12-Dec-2008,['US'],8.1,840000,33000000.0,270000000.0,tt1205489,237000000.0
-Million Dollar Baby,Clint Eastwood,Drama,2004,05-Dec-2004,['US'],8.1,746000,30000000.0,216763646.0,tt0405159,186763646.0
-Ben-Hur,William Wyler,"Adventure, Drama",1959,18-Nov-1959,['US'],8.1,264000,15000000.0,164000000.0,tt0052618,149000000.0
-Mad Max: Fury Road,George Miller,"Action, Adventure",2015,13-May-2015,"['AU', 'US']",8.1,1200000,150000000.0,378858340.0,tt1392190,228858340.0
-My Neighbor Totoro,Hayao Miyazaki,"Animation, Comedy, Fantasy",1988,16-Apr-1988,['JP'],8.1,408000,3700000.0,41000000.0,tt0096283,37300000.0
-Barry Lyndon,Stanley Kubrick,"Adventure, Drama",1975,18-Dec-1975,"['US', 'GB']",8.1,193000,11000000.0,31500000.0,tt0072684,20500000.0
-Spider-Man: No Way Home,Jon Watts,"Action, Adventure, Fantasy, Sci-Fi",2021,15-Dec-2021,['US'],8.2,952000,200000000.0,1921847111.0,tt10872600,1721847111.0
-Dead Poets Society,Peter Weir,"Comedy, Drama",1989,02-Jun-1989,['US'],8.1,592000,16400000.0,235900000.0,tt0097165,219500000.0
-Children of Heaven,Majid Majidi,Drama,1997,01-Aug-1997,['IR'],8.2,86000,180000.0,925402.0,tt0118849,745402.0
-12 Years a Slave,Steve McQueen,"Biography, Drama",2013,18-Oct-2013,['US'],8.1,765000,20000000.0,187000000.0,tt2024544,167000000.0
-Before Sunrise,Richard Linklater,"Comedy, Drama, Romance",1995,27-Jan-1995,['US'],8.1,359000,2500000.0,5987386.0,tt0112471,3487386.0
-The Grand Budapest Hotel,Wes Anderson,"Comedy, Drama",2014,26-Feb-2014,['US'],8.1,927000,30000000.0,174600318.0,tt2278388,144600318.0
-Hacksaw Ridge,Mel Gibson,"Biography, Drama",2016,07-Oct-2016,"['US', 'AU', 'GB']",8.1,638000,40000000.0,175302354.0,tt2119532,135302354.0
-Blade Runner,Ridley Scott,"Action, Drama, Sci-Fi, Thriller",1982,25-Jun-1982,['US'],8.1,854000,28000000.0,41722424.0,tt0083658,13722424.0
-Gone Girl,David Fincher,"Drama, Thriller",2014,01-Oct-2014,['US'],8.1,1100000,61000000.0,370890259.0,tt2267998,309890259.0
-Memories of Murder,Bong Joon Ho,"Drama, Thriller",2003,25-Apr-2003,['KR'],8.1,242000,2800000.0,26000000.0,tt0353969,23200000.0
-Ratatouille,Brad Bird,"Adventure, Animation, Comedy, Fantasy",2007,28-Jun-2007,['US'],8.1,886000,150000000.0,623726000.0,tt0382932,473726000.0
-"Monsters, Inc.",Pete Docter,"Adventure, Animation, Comedy",2001,01-Nov-2001,['US'],8.1,1000000,115000000.0,579700000.0,tt0198781,464700000.0
-In the Name of the Father,Jim Sheridan,"Biography, Drama",1993,12-Dec-1993,"['IE', 'GB']",8.1,196000,13000000.0,65796862.0,tt0107207,52796862.0
-How to Train Your Dragon,Dean DeBlois,"Action, Adventure, Animation, Fantasy",2010,18-Mar-2010,['US'],8.1,844000,165000000.0,494879471.0,tt0892769,329879471.0
-Wild Tales,Damián Szifron,"Comedy, Drama, Thriller",2014,21-Aug-2014,['AR'],8.1,229000,4000000.0,31478893.0,tt3011894,27478893.0
-The Gold Rush,Charles Chaplin,"Adventure, Comedy, Drama, Romance",1925,13-Jul-1925,['US'],8.1,124000,923000.0,4000000.0,tt0015864,3077000.0
-Sherlock Jr.,Buster Keaton,"Action, Comedy, Romance",1924,17-Apr-1924,['US'],8.2,62000,,,tt0015324,
-Jaws,Steven Spielberg,"Adventure, Drama, Horror, Thriller",1975,20-Jun-1975,['US'],8.1,695000,7000000.0,470653000.0,tt0073195,463653000.0
-Mary and Max,Adam Elliot,"Animation, Comedy, Drama",2009,09-Apr-2009,['AU'],8.1,196000,8240000.0,1740429.0,tt0978762,-6499571.0
-The Deer Hunter,Michael Cimino,Drama,1978,08-Dec-1978,['US'],8.1,376000,15000000.0,49000000.0,tt0077416,34000000.0
-Ford v Ferrari,James Mangold,"Action, Biography, Drama",2019,13-Nov-2019,['US'],8.1,523000,97600000.0,225508210.0,tt1950186,127908210.0
-The General,Clyde Bruckman,"Action, Adventure, Comedy, Drama",1926,25-Dec-1926,['US'],8.1,103000,750000.0,1000000.0,tt0017925,250000.0
-The Wages of Fear,Henri-Georges Clouzot,"Adventure, Drama, Thriller",1953,22-Apr-1953,['FR'],8.1,70000,,,tt0046268,
-Mr. Smith Goes to Washington,Frank Capra,"Comedy, Drama",1939,19-Oct-1939,['US'],8.1,126000,1500000.0,9600000.0,tt0031679,8100000.0
-On the Waterfront,Elia Kazan,"Drama, Thriller",1954,22-Jun-1954,['US'],8.1,172000,910000.0,960000.0,tt0047296,50000.0
-Wild Strawberries,Ingmar Bergman,"Drama, Romance",1957,28-Aug-1957,['SE'],8.1,121000,,,tt0050986,
-Logan,James Mangold,"Action, Drama, Sci-Fi, Thriller",2017,28-Feb-2017,['US'],8.1,890000,97000000.0,619021436.0,tt3315342,522021436.0
-Rocky,John G. Avildsen,Drama,1976,20-Nov-1976,['US'],8.1,660000,1000000.0,225253184.0,tt0075148,224253184.0
-The Third Man,Carol Reed,"Drama, Thriller",1949,31-Aug-1949,['GB'],8.1,190000,,1226098.0,tt0041959,
-Tokyo Story,Yasujirô Ozu,Drama,1953,03-Nov-1953,['JP'],8.1,74000,,,tt0046438,
-Spotlight,Tom McCarthy,"Biography, Drama",2015,06-Nov-2015,['US'],8.1,519000,20000000.0,98690254.0,tt1895587,78690254.0
-The Big Lebowski,Joel Coen,Comedy,1998,06-Mar-1998,['US'],8.1,891000,15000000.0,47010480.0,tt0118715,32010480.0
-Maharaja,Nithilan Saminathan,"Action, Drama, Thriller",2024,14-Jun-2024,['IN'],8.4,69000,,10758542.0,tt26548265,
-The Terminator,James Cameron,"Action, Adventure, Sci-Fi",1984,26-Oct-1984,['US'],8.1,965000,6400000.0,78371200.0,tt0088247,71971200.0
-The Seventh Seal,Ingmar Bergman,"Drama, Fantasy",1957,16-Feb-1957,['SE'],8.1,209000,150000.0,311212.0,tt0050976,161212.0
-Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,"Action, Adventure, Fantasy",2003,09-Jul-2003,['US'],8.1,1300000,140000000.0,655011224.0,tt0325980,515011224.0
-Room,Lenny Abrahamson,"Drama, Thriller",2015,16-Oct-2015,['US'],8.1,468000,13000000.0,35401758.0,tt3170832,22401758.0
-I'm Still Here,Walter Salles,"Biography, Drama",2024,19-Sep-2024,['BR'],8.3,108000,1480000.0,35741532.0,tt14961016,34261532.0
-La haine,Mathieu Kassovitz,Drama,1995,31-May-1995,['FR'],8.1,212000,2600000.0,15300000.0,tt0113247,12700000.0
-Jai Bhim,T.J. Gnanavel,Drama,2021,02-Nov-2021,['IN'],8.6,226000,,,tt15097216,
-Hotel Rwanda,Terry George,"Biography, Drama",2004,22-Dec-2004,"['US', 'IT', 'GB', 'ZA']",8.1,384000,17500000.0,38000000.0,tt0395169,20500000.0
-Platoon,Oliver Stone,Drama,1986,19-Dec-1986,['US'],8.1,456000,6000000.0,138530565.0,tt0091763,132530565.0
-The Best Years of Our Lives,William Wyler,"Drama, Romance",1946,25-Dec-1946,['US'],8.1,75000,2100000.0,23650000.0,tt0036868,21550000.0
-Before Sunset,Richard Linklater,"Drama, Romance",2004,16-Jun-2004,['US'],8.1,302000,2700000.0,15992615.0,tt0381681,13292615.0
-The Exorcist,William Friedkin,Horror,1973,26-Dec-1973,['US'],8.1,478000,12000000.0,441306145.0,tt0070047,429306145.0
-The Sound of Music,Robert Wise,"Biography, Drama, Romance",1965,02-Mar-1965,['US'],8.1,277000,8200000.0,286214286.0,tt0059742,278014286.0
-The Passion of Joan of Arc,Carl Theodor Dreyer,"Biography, Drama",1928,21-Apr-1928,['FR'],8.1,65000,,18121.0,tt0019254,
-The Wizard of Oz,Victor Fleming,"Adventure, Fantasy",1939,15-Aug-1939,['US'],8.1,451000,2777000.0,33754967.0,tt0032138,30977967.0
-The Incredibles,Brad Bird,"Action, Adventure, Animation",2004,27-Oct-2004,['US'],8.0,856000,92000000.0,631442092.0,tt0317705,539442092.0
-Hachi: A Dog's Tale,Lasse Hallström,"Biography, Drama",2009,08-Jun-2009,"['US', 'GB']",8.1,329000,16000000.0,46800000.0,tt1028532,30800000.0
-Rush,Ron Howard,"Biography, Drama",2013,02-Sep-2013,"['GB', 'US']",8.1,535000,38000000.0,90200000.0,tt1979320,52200000.0
-Stand by Me,Rob Reiner,"Adventure, Comedy, Drama",1986,08-Aug-1986,['US'],8.1,465000,8000000.0,52300000.0,tt0092005,44300000.0
-My Father and My Son,Çagan Irmak,Drama,2005,18-Nov-2005,['TR'],8.2,97000,,4187299.0,tt0476735,
-Network,Sidney Lumet,Drama,1976,14-Nov-1976,['US'],8.1,179000,3800000.0,23700000.0,tt0074958,19900000.0
-The Iron Giant,Brad Bird,"Action, Adventure, Animation, Comedy",1999,06-Aug-1999,['US'],8.1,245000,50000000.0,23300000.0,tt0129167,-26700000.0
-The Handmaiden,Park Chan-wook,"Drama, Romance, Thriller",2016,01-Jun-2016,['KR'],8.1,189000,8575000.0,38600000.0,tt4016934,30025000.0
-A Silent Voice: The Movie,Naoko Yamada,"Animation, Drama",2016,17-Sep-2016,['JP'],8.1,121000,,30819442.0,tt5323662,
-To Be or Not to Be,Ernst Lubitsch,"Comedy, Romance",1942,06-Mar-1942,['US'],8.1,47000,1200000.0,1500000.0,tt0035446,300000.0
-The Battle of Algiers,Gillo Pontecorvo,Drama,1966,08-Sep-1966,"['DZ', 'IT']",8.1,71000,800000.0,964028.0,tt0058946,164028.0
-The Grapes of Wrath,John Ford,Drama,1940,15-Mar-1940,['US'],8.1,105000,800000.0,1591000.0,tt0032551,791000.0
-Into the Wild,Sean Penn,"Adventure, Biography, Drama",2007,21-Sep-2007,['US'],8.0,680000,15000000.0,56255142.0,tt0758758,41255142.0
-Groundhog Day,Harold Ramis,"Comedy, Drama, Fantasy, Romance",1993,11-Feb-1993,['US'],8.0,717000,14600000.0,71108778.0,tt0107048,56508778.0
-The Help,Tate Taylor,Drama,2011,09-Aug-2011,['US'],8.1,513000,25000000.0,216600000.0,tt1454029,191600000.0
-Amores Perros,Alejandro G. Iñárritu,"Drama, Thriller",2000,16-Jun-2000,['MX'],8.0,268000,2000000.0,20908467.0,tt0245712,18908467.0
-Drishyam,Nishikant Kamat,"Drama, Thriller",2015,30-Jul-2015,['IN'],8.2,101000,4600000.0,18000000.0,tt4430212,13400000.0
-Gangs of Wasseypur,Anurag Kashyap,"Action, Comedy, Drama, Thriller",2012,08-Aug-2012,['IN'],8.2,108000,2228915.0,6119277.0,tt1954470,3890362.0
+,Title,Director,Genre,Year,Release date,Country,Rating,Votes,Budget,Revenue,IMDB id,Profit
+0,The Shawshank Redemption,Frank Darabont,Drama,1994,23-Sep-1994,['US'],9.3,3000000,25000000.0,28341469.0,tt0111161,3341469.0
+1,The Godfather,Francis Ford Coppola,Drama,1972,14-Mar-1972,['US'],9.2,2100000,6000000.0,245066411.0,tt0068646,239066411.0
+2,The Dark Knight,Christopher Nolan,"Action, Drama, Thriller",2008,16-Jul-2008,['US'],9.0,3000000,185000000.0,1004558444.0,tt0468569,819558444.0
+3,The Godfather Part II,Francis Ford Coppola,Drama,1974,20-Dec-1974,['US'],9.0,1400000,13000000.0,102600000.0,tt0071562,89600000.0
+4,12 Angry Men,Sidney Lumet,Drama,1957,10-Apr-1957,['US'],9.0,926000,397751.0,4360000.0,tt0050083,3962249.0
+5,The Lord of the Rings: The Return of the King,Peter Jackson,"Adventure, Drama",2003,17-Dec-2003,['US'],9.0,2100000,94000000.0,1118888979.0,tt0167260,1024888979.0
+6,Schindler's List,Steven Spielberg,"Biography, Drama",1993,15-Dec-1993,['US'],9.0,1500000,22000000.0,321365567.0,tt0108052,299365567.0
+7,Pulp Fiction,Quentin Tarantino,Drama,1994,10-Sep-1994,['US'],8.9,2300000,8000000.0,213928762.0,tt0110912,205928762.0
+8,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,"Adventure, Drama, Fantasy",2001,18-Dec-2001,['US'],8.9,2100000,93000000.0,871368364.0,tt0120737,778368364.0
+9,"The Good, the Bad and the Ugly",Sergio Leone,Adventure,1966,22-Dec-1966,['IT'],8.8,854000,1200000.0,38900000.0,tt0060196,37700000.0
+10,Forrest Gump,Robert Zemeckis,"Drama, Romance",1994,23-Jun-1994,['US'],8.8,2400000,55000000.0,677387716.0,tt0109830,622387716.0
+11,The Lord of the Rings: The Two Towers,Peter Jackson,"Adventure, Drama, Fantasy",2002,18-Dec-2002,['US'],8.8,1900000,79000000.0,926287400.0,tt0167261,847287400.0
+12,Fight Club,David Fincher,"Drama, Thriller",1999,15-Oct-1999,['US'],8.8,2500000,63000000.0,100853753.0,tt0137523,37853753.0
+13,Inception,Christopher Nolan,"Action, Adventure, Sci-Fi, Thriller",2010,15-Jul-2010,"['US', 'GB']",8.8,2700000,160000000.0,839030630.0,tt1375666,679030630.0
+14,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,"Adventure, Sci-Fi",1980,20-May-1980,['US'],8.7,1400000,18000000.0,538400000.0,tt0080684,520400000.0
+15,The Matrix,Lana Wachowski,"Action, Sci-Fi",1999,31-Mar-1999,['US'],8.7,2200000,63000000.0,463517383.0,tt0133093,400517383.0
+16,Goodfellas,Martin Scorsese,"Biography, Drama",1990,12-Sep-1990,['US'],8.7,1300000,25000000.0,46800000.0,tt0099685,21800000.0
+17,Interstellar,Christopher Nolan,"Adventure, Drama, Sci-Fi",2014,05-Nov-2014,['US'],8.7,2300000,165000000.0,746606706.0,tt0816692,581606706.0
+18,One Flew Over the Cuckoo's Nest,Milos Forman,Drama,1975,19-Nov-1975,['US'],8.7,1100000,3000000.0,108981275.0,tt0073486,105981275.0
+19,Se7en,David Fincher,Drama,1995,22-Sep-1995,['US'],8.6,1900000,33000000.0,327311859.0,tt0114369,294311859.0
+20,It's a Wonderful Life,Frank Capra,"Drama, Fantasy, Romance",1946,20-Dec-1946,['US'],8.6,528000,3180000.0,9644124.0,tt0038650,6464124.0
+21,The Silence of the Lambs,Jonathan Demme,"Drama, Horror, Thriller",1991,14-Feb-1991,['US'],8.6,1600000,19000000.0,272742922.0,tt0102926,253742922.0
+22,Seven Samurai,Akira Kurosawa,"Action, Drama",1954,26-Apr-1954,['JP'],8.6,384000,2000000.0,105000000.0,tt0047478,103000000.0
+23,Saving Private Ryan,Steven Spielberg,Drama,1998,24-Jul-1998,['US'],8.6,1600000,70000000.0,481840909.0,tt0120815,411840909.0
+24,City of God,Fernando Meirelles,Drama,2002,30-Aug-2002,['BR'],8.6,838000,3300000.0,30641770.0,tt0317248,27341770.0
+25,The Green Mile,Frank Darabont,"Drama, Fantasy",1999,10-Dec-1999,['US'],8.6,1500000,60000000.0,286801374.0,tt0120689,226801374.0
+26,Life Is Beautiful,Roberto Benigni,"Comedy, Drama, Romance",1997,20-Dec-1997,['IT'],8.6,779000,20000000.0,230098753.0,tt0118799,210098753.0
+27,Terminator 2: Judgment Day,James Cameron,"Action, Adventure, Sci-Fi",1991,03-Jul-1991,['US'],8.6,1200000,102000000.0,520000000.0,tt0103064,418000000.0
+28,Star Wars: Episode IV - A New Hope,George Lucas,Action,1977,25-May-1977,['US'],8.6,1500000,11000000.0,775398007.0,tt0076759,764398007.0
+29,Back to the Future,Robert Zemeckis,"Adventure, Comedy, Sci-Fi",1985,03-Jul-1985,['US'],8.5,1400000,19000000.0,381109762.0,tt0088763,362109762.0
+30,Spirited Away,Hayao Miyazaki,"Adventure, Animation, Fantasy",2001,20-Jul-2001,['JP'],8.6,911000,19000000.0,274925095.0,tt0245429,255925095.0
+31,The Pianist,Roman Polanski,"Biography, Drama",2002,17-Sep-2002,"['FR', 'DE', 'PL', 'GB']",8.5,969000,35000000.0,120098945.0,tt0253474,85098945.0
+32,Gladiator,Ridley Scott,"Action, Adventure, Drama",2000,04-May-2000,['US'],8.5,1800000,103000000.0,465516248.0,tt0172495,362516248.0
+33,Parasite,Bong Joon Ho,"Drama, Thriller",2019,30-May-2019,['KR'],8.5,1100000,11363000.0,257591776.0,tt6751668,246228776.0
+34,Psycho,Alfred Hitchcock,"Drama, Horror, Thriller",1960,22-Jun-1960,['US'],8.5,753000,806947.0,50048065.0,tt0054215,49241118.0
+35,The Lion King,Roger Allers,"Adventure, Animation, Drama, Fantasy",1994,15-Jun-1994,['US'],8.5,1200000,45000000.0,763455561.0,tt0110357,718455561.0
+36,Grave of the Fireflies,Isao Takahata,"Animation, Drama",1988,16-Apr-1988,['JP'],8.5,350000,3700000.0,516962.0,tt0095327,-3183038.0
+37,The Departed,Martin Scorsese,"Drama, Thriller",2006,04-Oct-2006,['US'],8.5,1500000,90000000.0,291465000.0,tt0407887,201465000.0
+38,Whiplash,Damien Chazelle,Drama,2014,10-Oct-2014,['US'],8.5,1100000,3300000.0,50307484.0,tt2582802,47007484.0
+39,Harakiri,Masaki Kobayashi,Drama,1962,15-Sep-1962,['JP'],8.6,80000,,,tt0056058,
+40,The Prestige,Christopher Nolan,"Drama, Sci-Fi, Thriller",2006,17-Oct-2006,"['GB', 'US']",8.5,1500000,40000000.0,109676311.0,tt0482571,69676311.0
+41,American History X,Tony Kaye,Drama,1998,01-Jul-1998,['US'],8.5,1200000,20000000.0,23900000.0,tt0120586,3900000.0
+42,Léon: The Professional,Luc Besson,"Action, Drama, Thriller",1994,14-Sep-1994,['FR'],8.5,1300000,16000000.0,45284974.0,tt0110413,29284974.0
+43,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,"Action, Adventure, Animation, Fantasy",2023,31-May-2023,['US'],8.5,456000,100000000.0,690897910.0,tt9362722,590897910.0
+44,Casablanca,Michael Curtiz,"Drama, Romance",1942,15-Jan-1943,['US'],8.5,631000,878000.0,10462500.0,tt0034583,9584500.0
+45,The Usual Suspects,Bryan Singer,Drama,1995,19-Jul-1995,['US'],8.5,1200000,6000000.0,23300000.0,tt0114814,17300000.0
+46,The Intouchables,Olivier Nakache,"Comedy, Drama",2011,02-Nov-2011,['FR'],8.5,979000,13000000.0,426590315.0,tt1675434,413590315.0
+47,Cinema Paradiso,Giuseppe Tornatore,"Drama, Romance",1988,17-Nov-1988,['IT'],8.5,301000,5000000.0,11990401.0,tt0095765,6990401.0
+48,Alien,Ridley Scott,"Horror, Sci-Fi",1979,25-May-1979,['US'],8.5,1000000,11000000.0,104931801.0,tt0078748,93931801.0
+49,Modern Times,Charles Chaplin,"Comedy, Drama, Romance",1936,05-Feb-1936,['US'],8.5,273000,1500000.0,1800000.0,tt0027977,300000.0
+50,Rear Window,Alfred Hitchcock,"Drama, Thriller",1954,01-Aug-1954,['US'],8.5,546000,1000000.0,37042336.0,tt0047396,36042336.0
+51,Once Upon a Time in the West,Sergio Leone,Drama,1968,21-Dec-1968,['IT'],8.5,368000,5000000.0,5380118.0,tt0064116,380118.0
+52,Django Unchained,Quentin Tarantino,"Drama, Comedy, Action",2012,25-Dec-2012,['US'],8.5,1800000,100000000.0,425368238.0,tt1853728,325368238.0
+53,City Lights,Charles Chaplin,"Comedy, Drama, Romance",1931,06-Feb-1931,['US'],8.5,207000,1500000.0,4250000.0,tt0021749,2750000.0
+54,Apocalypse Now,Francis Ford Coppola,Drama,1979,19-May-1979,['US'],8.4,742000,31500000.0,150000000.0,tt0078788,118500000.0
+55,Dune: Part Two,Denis Villeneuve,"Action, Adventure, Drama, Sci-Fi",2024,27-Feb-2024,['US'],8.5,632000,190000000.0,714444358.0,tt15239678,524444358.0
+56,WALL·E,Andrew Stanton,"Adventure, Animation, Sci-Fi",2008,22-Jun-2008,['US'],8.4,1300000,180000000.0,521311860.0,tt0910970,341311860.0
+57,Memento,Christopher Nolan,Thriller,2000,11-Oct-2000,['US'],8.4,1400000,9000000.0,40047236.0,tt0209144,31047236.0
+58,Raiders of the Lost Ark,Steven Spielberg,"Action, Adventure",1981,12-Jun-1981,['US'],8.4,1100000,18000000.0,389925971.0,tt0082971,371925971.0
+59,The Lives of Others,Florian Henckel von Donnersmarck,"Drama, Thriller",2006,23-Mar-2006,['DE'],8.4,428000,2000000.0,77672685.0,tt0405094,75672685.0
+60,Avengers: Infinity War,Anthony Russo,"Action, Adventure, Sci-Fi",2018,25-Apr-2018,['US'],8.4,1300000,300000000.0,2052415039.0,tt4154756,1752415039.0
+61,Sunset Boulevard,Billy Wilder,Drama,1950,10-Aug-1950,['US'],8.4,249000,1752000.0,5000000.0,tt0043014,3248000.0
+62,Spider-Man: Into the Spider-Verse,Bob Persichetti,"Action, Adventure, Animation, Comedy",2018,06-Dec-2018,['US'],8.4,732000,90000000.0,384298736.0,tt4633694,294298736.0
+63,Witness for the Prosecution,Billy Wilder,"Drama, Thriller",1957,17-Dec-1957,['US'],8.4,150000,3000000.0,9000000.0,tt0051201,6000000.0
+64,Paths of Glory,Stanley Kubrick,Drama,1957,25-Oct-1957,['US'],8.4,226000,935000.0,1200000.0,tt0050825,265000.0
+65,The Shining,Stanley Kubrick,"Drama, Horror",1980,23-May-1980,['US'],8.4,1200000,19000000.0,44781695.0,tt0081505,25781695.0
+66,The Great Dictator,Charles Chaplin,"Comedy, Drama",1940,15-Oct-1940,['US'],8.4,249000,2000000.0,11000000.0,tt0032553,9000000.0
+67,12th Fail,Vidhu Vinod Chopra,"Biography, Drama",2023,11-Aug-2023,['IN'],8.7,148000,2400000.0,8300000.0,tt23849204,5900000.0
+68,Inglourious Basterds,Quentin Tarantino,"Adventure, Drama",2009,02-Aug-2009,['US'],8.4,1700000,70000000.0,321457747.0,tt0361748,251457747.0
+69,Aliens,James Cameron,"Action, Adventure, Horror, Sci-Fi",1986,18-Jul-1986,['US'],8.4,809000,18500000.0,183316455.0,tt0090605,164816455.0
+70,The Dark Knight Rises,Christopher Nolan,"Action, Drama, Thriller",2012,17-Jul-2012,"['GB', 'US']",8.4,1900000,250000000.0,1081041287.0,tt1345836,831041287.0
+71,Coco,Lee Unkrich,"Adventure, Animation, Drama, Fantasy",2017,27-Oct-2017,['US'],8.4,651000,175000000.0,807816196.0,tt2380307,632816196.0
+72,Amadeus,Milos Forman,"Biography, Drama",1984,19-Sep-1984,['US'],8.4,449000,18000000.0,90007557.0,tt0086879,72007557.0
+73,Toy Story,John Lasseter,"Adventure, Animation, Comedy, Fantasy",1995,22-Nov-1995,['US'],8.3,1100000,30000000.0,394436586.0,tt0114709,364436586.0
+74,Avengers: Endgame,Anthony Russo,"Action, Adventure, Sci-Fi",2019,24-Apr-2019,['US'],8.4,1400000,356000000.0,2799439100.0,tt4154796,2443439100.0
+75,Good Will Hunting,Gus Van Sant,"Drama, Romance",1997,05-Dec-1997,['US'],8.3,1100000,10000000.0,225900000.0,tt0119217,215900000.0
+76,Oldboy,Park Chan-wook,"Action, Drama, Thriller",2003,21-Nov-2003,['KR'],8.3,680000,3000000.0,17500000.0,tt0364569,14500000.0
+77,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,Comedy,1964,29-Jan-1964,['GB'],8.3,538000,1800000.0,9500000.0,tt0057012,7700000.0
+78,Das Boot,Wolfgang Petersen,Drama,1981,17-Sep-1981,['DE'],8.4,279000,14000000.0,85000000.0,tt0082096,71000000.0
+79,Braveheart,Mel Gibson,"Biography, Drama",1995,24-May-1995,['US'],8.3,1100000,72000000.0,213216216.0,tt0112573,141216216.0
+80,American Beauty,Sam Mendes,Drama,1999,15-Sep-1999,['US'],8.3,1200000,15000000.0,356296601.0,tt0169547,341296601.0
+81,Princess Mononoke,Hayao Miyazaki,"Adventure, Animation",1997,12-Jul-1997,['JP'],8.3,461000,23500000.0,176506186.0,tt0119698,153006186.0
+82,High and Low,Akira Kurosawa,"Drama, Thriller",1963,01-Mar-1963,['JP'],8.4,60000,250000.0,,tt0057565,
+83,Your Name.,Makoto Shinkai,"Animation, Drama, Fantasy, Romance",2016,26-Aug-2016,['JP'],8.4,357000,,358000000.0,tt5311514,
+84,3 Idiots,Rajkumar Hirani,"Comedy, Drama",2009,23-Dec-2009,['IN'],8.4,459000,9000000.0,70000000.0,tt1187043,61000000.0
+85,Joker,Todd Phillips,"Drama, Thriller",2019,01-Oct-2019,['US'],8.3,1600000,55000000.0,1078958629.0,tt7286456,1023958629.0
+86,Once Upon a Time in America,Sergio Leone,Drama,1984,23-May-1984,"['IT', 'US']",8.3,395000,30000000.0,5500000.0,tt0087843,-24500000.0
+87,Capernaum,Nadine Labaki,Drama,2018,20-Sep-2018,['LB'],8.4,116000,4000000.0,64978931.0,tt8267604,60978931.0
+88,Singin' in the Rain,Stanley Donen,"Comedy, Romance",1952,10-Apr-1952,['US'],8.3,273000,2540800.0,7200000.0,tt0045152,4659200.0
+89,Come and See,Elem Klimov,"Drama, Thriller",1985,17-Oct-1985,['SU'],8.3,112000,,20929648.0,tt0091251,
+90,Requiem for a Dream,Darren Aronofsky,Drama,2000,06-Oct-2000,['US'],8.3,939000,4500000.0,7390108.0,tt0180093,2890108.0
+91,The Chaos Class Failed the Class,Ertem Egilmez,Comedy,1975,15-Apr-1975,['TR'],8.7,27000,,,tt0252488,
+92,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,"Adventure, Sci-Fi",1983,25-May-1983,['US'],8.3,1200000,32350000.0,572700000.0,tt0086190,540350000.0
+93,Toy Story 3,Lee Unkrich,"Adventure, Animation, Comedy, Fantasy",2010,16-Jun-2010,['US'],8.3,932000,200000000.0,1067316101.0,tt0435761,867316101.0
+94,The Hunt,Thomas Vinterberg,Drama,2012,13-Jun-2012,['DK'],8.3,388000,3800000.0,18300000.0,tt2106476,14500000.0
+95,Ikiru,Akira Kurosawa,Drama,1952,09-Oct-1952,['JP'],8.3,97000,,55240.0,tt0044741,
+96,Eternal Sunshine of the Spotless Mind,Michel Gondry,"Drama, Romance, Sci-Fi",2004,19-Mar-2004,['US'],8.3,1100000,20000000.0,72258126.0,tt0338013,52258126.0
+97,2001: A Space Odyssey,Stanley Kubrick,"Adventure, Sci-Fi",1968,02-Apr-1968,"['US', 'GB']",8.3,754000,12000000.0,71923560.0,tt0062622,59923560.0
+98,Incendies,Denis Villeneuve,Drama,2010,17-Sep-2010,['CA'],8.3,228000,6800000.0,6788659.0,tt1255953,-11341.0
+99,Reservoir Dogs,Quentin Tarantino,Thriller,1992,02-Sep-1992,['US'],8.3,1100000,1200000.0,2859750.0,tt0105236,1659750.0
+100,The Apartment,Billy Wilder,"Comedy, Drama, Romance",1960,21-Jun-1960,['US'],8.3,209000,3000000.0,25000000.0,tt0053604,22000000.0
+101,Lawrence of Arabia,David Lean,"Adventure, Biography, Drama",1962,11-Dec-1962,['GB'],8.3,329000,15000000.0,69995385.0,tt0056172,54995385.0
+102,Scarface,Brian De Palma,Drama,1983,09-Dec-1983,['US'],8.3,966000,25000000.0,66023329.0,tt0086250,41023329.0
+103,Double Indemnity,Billy Wilder,"Drama, Thriller",1944,06-Jul-1944,['US'],8.3,175000,927262.0,2500000.0,tt0036775,1572738.0
+104,Heat,Michael Mann,"Action, Drama",1995,15-Dec-1995,['US'],8.3,759000,60000000.0,187400000.0,tt0113277,127400000.0
+105,North by Northwest,Alfred Hitchcock,"Adventure, Drama, Thriller",1959,08-Jul-1959,['US'],8.3,360000,4000000.0,13275000.0,tt0053125,9275000.0
+106,Up,Pete Docter,"Adventure, Animation, Comedy, Drama",2009,28-May-2009,['US'],8.3,1200000,175000000.0,735099082.0,tt1049413,560099082.0
+107,Citizen Kane,Orson Welles,Drama,1941,17-Apr-1941,['US'],8.3,481000,839727.0,23218000.0,tt0033467,22378273.0
+108,M,Fritz Lang,Thriller,1931,11-May-1931,['DE'],8.3,177000,,35274.0,tt0022100,
+109,Full Metal Jacket,Stanley Kubrick,Drama,1987,26-Jun-1987,['US'],8.2,822000,30000000.0,46357676.0,tt0093058,16357676.0
+110,Vertigo,Alfred Hitchcock,"Romance, Thriller",1958,28-May-1958,['US'],8.2,445000,2479000.0,7808900.0,tt0052357,5329900.0
+111,Amélie,Jean-Pierre Jeunet,"Comedy, Romance",2001,25-Apr-2001,['FR'],8.3,819000,10000000.0,173921954.0,tt0211915,163921954.0
+112,A Separation,Asghar Farhadi,Drama,2011,15-Feb-2011,['IR'],8.3,269000,5000000.0,24426169.0,tt1832382,19426169.0
+113,To Kill a Mockingbird,Robert Mulligan,Drama,1962,20-Dec-1962,['US'],8.3,343000,2000000.0,13129846.0,tt0056592,11129846.0
+114,Like Stars on Earth,Aamir Khan,Drama,2007,21-Dec-2007,['IN'],8.3,218000,2600000.0,28430000.0,tt0986264,25830000.0
+115,A Clockwork Orange,Stanley Kubrick,Sci-Fi,1971,19-Dec-1971,['US'],8.2,912000,2200000.0,27033812.0,tt0066921,24833812.0
+116,Die Hard,John McTiernan,"Action, Thriller",1988,15-Jul-1988,['US'],8.2,991000,28000000.0,140767956.0,tt0095016,112767956.0
+117,The Sting,George Roy Hill,"Comedy, Drama",1973,25-Dec-1973,['US'],8.2,290000,5500000.0,159616327.0,tt0070735,154116327.0
+118,Indiana Jones and the Last Crusade,Steven Spielberg,"Action, Adventure",1989,24-May-1989,['US'],8.2,839000,48000000.0,474171806.0,tt0097576,426171806.0
+119,Oppenheimer,Christopher Nolan,"Biography, Drama",2023,19-Jul-2023,['US'],8.3,893000,100000000.0,952000000.0,tt15398776,852000000.0
+120,Metropolis,Fritz Lang,"Drama, Sci-Fi",1927,06-Feb-1927,['DE'],8.3,194000,5300000.0,1350322.0,tt0017136,-3949678.0
+121,Snatch,Guy Ritchie,Comedy,2000,01-Sep-2000,['GB'],8.2,946000,10000000.0,83557872.0,tt0208092,73557872.0
+122,1917,Sam Mendes,"Action, Drama",2019,25-Dec-2019,['US'],8.2,728000,100000000.0,394638258.0,tt8579674,294638258.0
+123,L.A. Confidential,Curtis Hanson,Drama,1997,19-Sep-1997,['US'],8.2,641000,35000000.0,126216940.0,tt0119488,91216940.0
+124,Bicycle Thieves,Vittorio De Sica,Drama,1948,21-Jul-1948,['IT'],8.2,185000,133000.0,450159.0,tt0040522,317159.0
+125,Downfall,Oliver Hirschbiegel,"Biography, Drama",2004,16-Sep-2004,['DE'],8.2,389000,16000000.0,92181574.0,tt0363163,76181574.0
+126,Dangal,Nitesh Tiwari,"Action, Biography, Drama",2016,21-Dec-2016,['IN'],8.3,226000,10400000.0,311000000.0,tt5074352,300600000.0
+127,The Wolf of Wall Street,Martin Scorsese,"Biography, Comedy, Drama",2013,25-Dec-2013,['US'],8.2,1700000,100000000.0,407038432.0,tt0993846,307038432.0
+128,Hamilton,Thomas Kail,"Biography, Drama",2020,03-Jul-2020,['US'],8.3,128000,,,tt8503618,
+129,Taxi Driver,Martin Scorsese,Drama,1976,09-Feb-1976,['US'],8.2,980000,1900000.0,28579636.0,tt0075314,26679636.0
+130,Green Book,Peter Farrelly,"Biography, Comedy, Drama",2018,16-Nov-2018,['US'],8.2,636000,23000000.0,321752656.0,tt6966692,298752656.0
+131,Batman Begins,Christopher Nolan,"Action, Drama, Thriller",2005,10-Jun-2005,['US'],8.2,1600000,150000000.0,374218673.0,tt0372784,224218673.0
+132,For a Few Dollars More,Sergio Leone,Drama,1965,18-Dec-1965,['IT'],8.2,289000,600000.0,15000000.0,tt0059578,14400000.0
+133,The Truman Show,Peter Weir,"Comedy, Drama",1998,04-Jun-1998,['US'],8.2,1300000,60000000.0,264100000.0,tt0120382,204100000.0
+134,Judgment at Nuremberg,Stanley Kramer,Drama,1961,18-Dec-1961,['US'],8.3,92000,3000000.0,10000000.0,tt0055031,7000000.0
+135,Some Like It Hot,Billy Wilder,"Comedy, Romance",1959,19-Mar-1959,['US'],8.2,295000,2883848.0,25000000.0,tt0053291,22116152.0
+136,Shutter Island,Martin Scorsese,"Drama, Thriller",2010,14-Feb-2010,['US'],8.2,1600000,80000000.0,294804195.0,tt1130884,214804195.0
+137,The Kid,Charles Chaplin,"Comedy, Drama",1921,21-Jan-1921,['US'],8.2,141000,250000.0,2500000.0,tt0012349,2250000.0
+138,The Father,Florian Zeller,Drama,2020,23-Dec-2020,['GB'],8.2,213000,6000000.0,21029340.0,tt10272386,15029340.0
+139,All About Eve,Joseph L. Mankiewicz,Drama,1950,09-Nov-1950,['US'],8.2,145000,1400000.0,8400000.0,tt0042192,7000000.0
+140,Jurassic Park,Steven Spielberg,"Action, Adventure, Sci-Fi, Thriller",1993,11-Jun-1993,['US'],8.2,1100000,63000000.0,920100000.0,tt0107290,857100000.0
+141,There Will Be Blood,Paul Thomas Anderson,Drama,2007,26-Dec-2007,['US'],8.2,671000,25000000.0,77208711.0,tt0469494,52208711.0
+142,The Sixth Sense,M. Night Shyamalan,"Drama, Thriller",1999,06-Aug-1999,['US'],8.2,1100000,40000000.0,672800000.0,tt0167404,632800000.0
+143,Casino,Martin Scorsese,Drama,1995,22-Nov-1995,['US'],8.2,593000,50000000.0,116112375.0,tt0112641,66112375.0
+144,Ran,Akira Kurosawa,"Action, Drama",1985,01-Jun-1985,['JP'],8.2,144000,11500005.0,11859533.0,tt0089881,359528.0
+145,Top Gun: Maverick,Joseph Kosinski,"Action, Drama",2022,21-May-2022,['US'],8.2,777000,170000000.0,1488732821.0,tt1745960,1318732821.0
+146,No Country for Old Men,Ethan Coen,"Drama, Thriller",2007,13-Jun-2007,['US'],8.2,1100000,25000000.0,171627166.0,tt0477348,146627166.0
+147,The Thing,John Carpenter,"Horror, Sci-Fi",1982,25-Jun-1982,['US'],8.2,499000,15000000.0,19629760.0,tt0084787,4629760.0
+148,Pan's Labyrinth,Guillermo del Toro,"Drama, Fantasy",2006,11-Oct-2006,"['MX', 'ES']",8.2,725000,19000000.0,83258226.0,tt0457430,64258226.0
+149,Unforgiven,Clint Eastwood,Drama,1992,07-Aug-1992,['US'],8.2,455000,14400000.0,159157447.0,tt0105695,144757447.0
+150,A Beautiful Mind,Ron Howard,"Biography, Drama",2001,14-Dec-2001,['US'],8.2,1000000,58000000.0,316791257.0,tt0268978,258791257.0
+151,Kill Bill: Vol. 1,Quentin Tarantino,"Action, Thriller",2003,10-Oct-2003,['US'],8.2,1300000,30000000.0,180906076.0,tt0266697,150906076.0
+152,The Treasure of the Sierra Madre,John Huston,"Adventure, Drama",1948,15-Jan-1948,['US'],8.2,137000,3800000.0,4307000.0,tt0040897,507000.0
+153,Prisoners,Denis Villeneuve,"Drama, Thriller",2013,19-Sep-2013,['US'],8.2,872000,46000000.0,122126687.0,tt1392214,76126687.0
+154,Yojimbo,Akira Kurosawa,"Action, Drama, Thriller",1961,25-Apr-1961,['JP'],8.2,138000,,,tt0055630,
+155,Finding Nemo,Andrew Stanton,"Adventure, Animation, Comedy",2003,30-May-2003,['US'],8.2,1200000,94000000.0,940335536.0,tt0266543,846335536.0
+156,Howl's Moving Castle,Hayao Miyazaki,"Adventure, Animation, Fantasy",2004,09-Sep-2004,['JP'],8.2,484000,24000000.0,236049757.0,tt0347149,212049757.0
+157,The Great Escape,John Sturges,"Adventure, Drama, Thriller",1963,03-Jul-1963,['US'],8.2,269000,4000000.0,11700000.0,tt0057115,7700000.0
+158,Monty Python and the Holy Grail,Terry Gilliam,"Adventure, Comedy, Fantasy",1975,03-Apr-1975,['GB'],8.2,588000,400000.0,5028948.0,tt0071853,4628948.0
+159,The Elephant Man,David Lynch,"Biography, Drama",1980,09-Oct-1980,['US'],8.2,273000,5000000.0,26000000.0,tt0080678,21000000.0
+160,Dial M for Murder,Alfred Hitchcock,"Drama, Thriller",1954,29-May-1954,['US'],8.2,198000,1400000.0,3000000.0,tt0046912,1600000.0
+161,Klaus,Sergio Pablos,"Adventure, Animation, Comedy, Fantasy",2019,08-Nov-2019,"['GB', 'ES', 'US']",8.2,215000,,,tt4729430,
+162,Gone with the Wind,Victor Fleming,"Drama, Romance",1939,15-Dec-1939,['US'],8.2,347000,4000000.0,402352579.0,tt0031381,398352579.0
+163,Rashomon,Akira Kurosawa,Drama,1950,26-Aug-1950,['JP'],8.2,189000,250000.0,117668.0,tt0042876,-132332.0
+164,Chinatown,Roman Polanski,"Drama, Thriller",1974,20-Jun-1974,['US'],8.1,365000,6000000.0,30000000.0,tt0071315,24000000.0
+165,The Secret in Their Eyes,Juan José Campanella,Drama,2009,13-Aug-2009,"['ES', 'AR']",8.2,233000,2000000.0,33965843.0,tt1305806,31965843.0
+166,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,Comedy,1998,28-Aug-1998,['GB'],8.1,635000,1350000.0,28356188.0,tt0120735,27006188.0
+167,V for Vendetta,James McTeigue,"Action, Drama, Sci-Fi, Thriller",2005,23-Feb-2006,['US'],8.1,1200000,54000000.0,134686457.0,tt0434409,80686457.0
+168,Inside Out,Pete Docter,"Adventure, Animation, Comedy, Drama, Fantasy",2015,17-Jun-2015,['US'],8.1,868000,175000000.0,857611174.0,tt2096673,682611174.0
+169,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,"Comedy, Drama",2017,01-Dec-2017,"['GB', 'US']",8.1,583000,15000000.0,162729321.0,tt5027774,147729321.0
+170,The Bridge on the River Kwai,David Lean,"Adventure, Drama",1957,11-Oct-1957,['GB'],8.1,242000,3000000.0,44908000.0,tt0050212,41908000.0
+171,Trainspotting,Danny Boyle,Drama,1996,23-Feb-1996,['GB'],8.1,750000,4000000.0,71981823.0,tt0117951,67981823.0
+172,Catch Me If You Can,Steven Spielberg,"Biography, Drama",2002,16-Dec-2002,['US'],8.1,1200000,52000000.0,352114312.0,tt0264464,300114312.0
+173,Raging Bull,Martin Scorsese,"Biography, Drama",1980,14-Nov-1980,['US'],8.1,396000,18000000.0,23380203.0,tt0081398,5380203.0
+174,The Wild Robot,Chris Sanders,"Animation, Sci-Fi",2024,12-Sep-2024,['US'],8.2,169000,78000000.0,331982078.0,tt29623480,253982078.0
+175,Fargo,Joel Coen,"Drama, Thriller",1996,08-Mar-1996,['US'],8.1,757000,7000000.0,60611975.0,tt0116282,53611975.0
+176,Warrior,Gavin O'Connor,"Action, Drama",2011,09-Sep-2011,['US'],8.1,515000,25000000.0,23300000.0,tt1291584,-1700000.0
+177,Harry Potter and the Deathly Hallows: Part 2,David Yates,"Adventure, Fantasy",2011,12-Jul-2011,['GB'],8.1,998000,125000000.0,1341511219.0,tt1201607,1216511219.0
+178,Gran Torino,Clint Eastwood,Drama,2008,12-Dec-2008,['US'],8.1,840000,33000000.0,270000000.0,tt1205489,237000000.0
+179,Million Dollar Baby,Clint Eastwood,Drama,2004,05-Dec-2004,['US'],8.1,746000,30000000.0,216763646.0,tt0405159,186763646.0
+180,Ben-Hur,William Wyler,"Adventure, Drama",1959,18-Nov-1959,['US'],8.1,264000,15000000.0,164000000.0,tt0052618,149000000.0
+181,Mad Max: Fury Road,George Miller,"Action, Adventure",2015,13-May-2015,"['AU', 'US']",8.1,1200000,150000000.0,378858340.0,tt1392190,228858340.0
+182,My Neighbor Totoro,Hayao Miyazaki,"Animation, Comedy, Fantasy",1988,16-Apr-1988,['JP'],8.1,408000,3700000.0,41000000.0,tt0096283,37300000.0
+183,Barry Lyndon,Stanley Kubrick,"Adventure, Drama",1975,18-Dec-1975,"['US', 'GB']",8.1,193000,11000000.0,31500000.0,tt0072684,20500000.0
+184,Spider-Man: No Way Home,Jon Watts,"Action, Adventure, Fantasy, Sci-Fi",2021,15-Dec-2021,['US'],8.2,952000,200000000.0,1921847111.0,tt10872600,1721847111.0
+185,Dead Poets Society,Peter Weir,"Comedy, Drama",1989,02-Jun-1989,['US'],8.1,592000,16400000.0,235900000.0,tt0097165,219500000.0
+186,Children of Heaven,Majid Majidi,Drama,1997,01-Aug-1997,['IR'],8.2,86000,180000.0,925402.0,tt0118849,745402.0
+187,12 Years a Slave,Steve McQueen,"Biography, Drama",2013,18-Oct-2013,['US'],8.1,765000,20000000.0,187000000.0,tt2024544,167000000.0
+188,Before Sunrise,Richard Linklater,"Comedy, Drama, Romance",1995,27-Jan-1995,['US'],8.1,359000,2500000.0,5987386.0,tt0112471,3487386.0
+189,The Grand Budapest Hotel,Wes Anderson,"Comedy, Drama",2014,26-Feb-2014,['US'],8.1,927000,30000000.0,174600318.0,tt2278388,144600318.0
+190,Hacksaw Ridge,Mel Gibson,"Biography, Drama",2016,07-Oct-2016,"['US', 'AU', 'GB']",8.1,638000,40000000.0,175302354.0,tt2119532,135302354.0
+191,Blade Runner,Ridley Scott,"Action, Drama, Sci-Fi, Thriller",1982,25-Jun-1982,['US'],8.1,854000,28000000.0,41722424.0,tt0083658,13722424.0
+192,Gone Girl,David Fincher,"Drama, Thriller",2014,01-Oct-2014,['US'],8.1,1100000,61000000.0,370890259.0,tt2267998,309890259.0
+193,Memories of Murder,Bong Joon Ho,"Drama, Thriller",2003,25-Apr-2003,['KR'],8.1,242000,2800000.0,26000000.0,tt0353969,23200000.0
+194,Ratatouille,Brad Bird,"Adventure, Animation, Comedy, Fantasy",2007,28-Jun-2007,['US'],8.1,886000,150000000.0,623726000.0,tt0382932,473726000.0
+195,"Monsters, Inc.",Pete Docter,"Adventure, Animation, Comedy",2001,01-Nov-2001,['US'],8.1,1000000,115000000.0,579700000.0,tt0198781,464700000.0
+196,In the Name of the Father,Jim Sheridan,"Biography, Drama",1993,12-Dec-1993,"['IE', 'GB']",8.1,196000,13000000.0,65796862.0,tt0107207,52796862.0
+197,How to Train Your Dragon,Dean DeBlois,"Action, Adventure, Animation, Fantasy",2010,18-Mar-2010,['US'],8.1,844000,165000000.0,494879471.0,tt0892769,329879471.0
+198,Wild Tales,Damián Szifron,"Comedy, Drama, Thriller",2014,21-Aug-2014,['AR'],8.1,229000,4000000.0,31478893.0,tt3011894,27478893.0
+199,The Gold Rush,Charles Chaplin,"Adventure, Comedy, Drama, Romance",1925,13-Jul-1925,['US'],8.1,124000,923000.0,4000000.0,tt0015864,3077000.0
+200,Sherlock Jr.,Buster Keaton,"Action, Comedy, Romance",1924,17-Apr-1924,['US'],8.2,62000,,,tt0015324,
+201,Jaws,Steven Spielberg,"Adventure, Drama, Horror, Thriller",1975,20-Jun-1975,['US'],8.1,695000,7000000.0,470653000.0,tt0073195,463653000.0
+202,Mary and Max,Adam Elliot,"Animation, Comedy, Drama",2009,09-Apr-2009,['AU'],8.1,196000,8240000.0,1740429.0,tt0978762,-6499571.0
+203,The Deer Hunter,Michael Cimino,Drama,1978,08-Dec-1978,['US'],8.1,376000,15000000.0,49000000.0,tt0077416,34000000.0
+204,Ford v Ferrari,James Mangold,"Action, Biography, Drama",2019,13-Nov-2019,['US'],8.1,523000,97600000.0,225508210.0,tt1950186,127908210.0
+205,The General,Clyde Bruckman,"Action, Adventure, Comedy, Drama",1926,25-Dec-1926,['US'],8.1,103000,750000.0,1000000.0,tt0017925,250000.0
+206,The Wages of Fear,Henri-Georges Clouzot,"Adventure, Drama, Thriller",1953,22-Apr-1953,['FR'],8.1,70000,,,tt0046268,
+207,Mr. Smith Goes to Washington,Frank Capra,"Comedy, Drama",1939,19-Oct-1939,['US'],8.1,126000,1500000.0,9600000.0,tt0031679,8100000.0
+208,On the Waterfront,Elia Kazan,"Drama, Thriller",1954,22-Jun-1954,['US'],8.1,172000,910000.0,960000.0,tt0047296,50000.0
+209,Wild Strawberries,Ingmar Bergman,"Drama, Romance",1957,28-Aug-1957,['SE'],8.1,121000,,,tt0050986,
+210,Logan,James Mangold,"Action, Drama, Sci-Fi, Thriller",2017,28-Feb-2017,['US'],8.1,890000,97000000.0,619021436.0,tt3315342,522021436.0
+211,Rocky,John G. Avildsen,Drama,1976,20-Nov-1976,['US'],8.1,660000,1000000.0,225253184.0,tt0075148,224253184.0
+212,The Third Man,Carol Reed,"Drama, Thriller",1949,31-Aug-1949,['GB'],8.1,190000,,1226098.0,tt0041959,
+213,Tokyo Story,Yasujirô Ozu,Drama,1953,03-Nov-1953,['JP'],8.1,74000,,,tt0046438,
+214,Spotlight,Tom McCarthy,"Biography, Drama",2015,06-Nov-2015,['US'],8.1,519000,20000000.0,98690254.0,tt1895587,78690254.0
+215,The Big Lebowski,Joel Coen,Comedy,1998,06-Mar-1998,['US'],8.1,891000,15000000.0,47010480.0,tt0118715,32010480.0
+216,Maharaja,Nithilan Saminathan,"Action, Drama, Thriller",2024,14-Jun-2024,['IN'],8.4,69000,,10758542.0,tt26548265,
+217,The Terminator,James Cameron,"Action, Adventure, Sci-Fi",1984,26-Oct-1984,['US'],8.1,965000,6400000.0,78371200.0,tt0088247,71971200.0
+218,The Seventh Seal,Ingmar Bergman,"Drama, Fantasy",1957,16-Feb-1957,['SE'],8.1,209000,150000.0,311212.0,tt0050976,161212.0
+219,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,"Action, Adventure, Fantasy",2003,09-Jul-2003,['US'],8.1,1300000,140000000.0,655011224.0,tt0325980,515011224.0
+220,Room,Lenny Abrahamson,"Drama, Thriller",2015,16-Oct-2015,['US'],8.1,468000,13000000.0,35401758.0,tt3170832,22401758.0
+221,I'm Still Here,Walter Salles,"Biography, Drama",2024,19-Sep-2024,['BR'],8.3,108000,1480000.0,35741532.0,tt14961016,34261532.0
+222,La haine,Mathieu Kassovitz,Drama,1995,31-May-1995,['FR'],8.1,212000,2600000.0,15300000.0,tt0113247,12700000.0
+223,Jai Bhim,T.J. Gnanavel,Drama,2021,02-Nov-2021,['IN'],8.6,226000,,,tt15097216,
+224,Hotel Rwanda,Terry George,"Biography, Drama",2004,22-Dec-2004,"['US', 'IT', 'GB', 'ZA']",8.1,384000,17500000.0,38000000.0,tt0395169,20500000.0
+225,Platoon,Oliver Stone,Drama,1986,19-Dec-1986,['US'],8.1,456000,6000000.0,138530565.0,tt0091763,132530565.0
+226,The Best Years of Our Lives,William Wyler,"Drama, Romance",1946,25-Dec-1946,['US'],8.1,75000,2100000.0,23650000.0,tt0036868,21550000.0
+227,Before Sunset,Richard Linklater,"Drama, Romance",2004,16-Jun-2004,['US'],8.1,302000,2700000.0,15992615.0,tt0381681,13292615.0
+228,The Exorcist,William Friedkin,Horror,1973,26-Dec-1973,['US'],8.1,478000,12000000.0,441306145.0,tt0070047,429306145.0
+229,The Sound of Music,Robert Wise,"Biography, Drama, Romance",1965,02-Mar-1965,['US'],8.1,277000,8200000.0,286214286.0,tt0059742,278014286.0
+230,The Passion of Joan of Arc,Carl Theodor Dreyer,"Biography, Drama",1928,21-Apr-1928,['FR'],8.1,65000,,18121.0,tt0019254,
+231,The Wizard of Oz,Victor Fleming,"Adventure, Fantasy",1939,15-Aug-1939,['US'],8.1,451000,2777000.0,33754967.0,tt0032138,30977967.0
+232,The Incredibles,Brad Bird,"Action, Adventure, Animation",2004,27-Oct-2004,['US'],8.0,856000,92000000.0,631442092.0,tt0317705,539442092.0
+233,Hachi: A Dog's Tale,Lasse Hallström,"Biography, Drama",2009,08-Jun-2009,"['US', 'GB']",8.1,329000,16000000.0,46800000.0,tt1028532,30800000.0
+234,Rush,Ron Howard,"Biography, Drama",2013,02-Sep-2013,"['GB', 'US']",8.1,535000,38000000.0,90200000.0,tt1979320,52200000.0
+235,Stand by Me,Rob Reiner,"Adventure, Comedy, Drama",1986,08-Aug-1986,['US'],8.1,465000,8000000.0,52300000.0,tt0092005,44300000.0
+236,My Father and My Son,Çagan Irmak,Drama,2005,18-Nov-2005,['TR'],8.2,97000,,4187299.0,tt0476735,
+237,Network,Sidney Lumet,Drama,1976,14-Nov-1976,['US'],8.1,179000,3800000.0,23700000.0,tt0074958,19900000.0
+238,The Iron Giant,Brad Bird,"Action, Adventure, Animation, Comedy",1999,06-Aug-1999,['US'],8.1,245000,50000000.0,23300000.0,tt0129167,-26700000.0
+239,The Handmaiden,Park Chan-wook,"Drama, Romance, Thriller",2016,01-Jun-2016,['KR'],8.1,189000,8575000.0,38600000.0,tt4016934,30025000.0
+240,A Silent Voice: The Movie,Naoko Yamada,"Animation, Drama",2016,17-Sep-2016,['JP'],8.1,121000,,30819442.0,tt5323662,
+241,To Be or Not to Be,Ernst Lubitsch,"Comedy, Romance",1942,06-Mar-1942,['US'],8.1,47000,1200000.0,1500000.0,tt0035446,300000.0
+242,The Battle of Algiers,Gillo Pontecorvo,Drama,1966,08-Sep-1966,"['DZ', 'IT']",8.1,71000,800000.0,964028.0,tt0058946,164028.0
+243,The Grapes of Wrath,John Ford,Drama,1940,15-Mar-1940,['US'],8.1,105000,800000.0,1591000.0,tt0032551,791000.0
+244,Into the Wild,Sean Penn,"Adventure, Biography, Drama",2007,21-Sep-2007,['US'],8.0,680000,15000000.0,56255142.0,tt0758758,41255142.0
+245,Groundhog Day,Harold Ramis,"Comedy, Drama, Fantasy, Romance",1993,11-Feb-1993,['US'],8.0,717000,14600000.0,71108778.0,tt0107048,56508778.0
+246,The Help,Tate Taylor,Drama,2011,09-Aug-2011,['US'],8.1,513000,25000000.0,216600000.0,tt1454029,191600000.0
+247,Amores Perros,Alejandro G. Iñárritu,"Drama, Thriller",2000,16-Jun-2000,['MX'],8.0,268000,2000000.0,20908467.0,tt0245712,18908467.0
+248,Drishyam,Nishikant Kamat,"Drama, Thriller",2015,30-Jul-2015,['IN'],8.2,101000,4600000.0,18000000.0,tt4430212,13400000.0
+249,Gangs of Wasseypur,Anurag Kashyap,"Action, Comedy, Drama, Thriller",2012,08-Aug-2012,['IN'],8.2,108000,2228915.0,6119277.0,tt1954470,3890362.0
